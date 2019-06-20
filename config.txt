@@ -1,3 +1,5 @@
-token=NTg4ODc1MjA0Nzc2OTUxODE4.XQLfMA.6rC1-qny6zqZ9lX93ASBjvagZMU
-owner=551386592963592192
-prefix=1
+token=NTkxMTcyNTQ3MjExNDI3ODQx.XQs6kw.Qn8c29lFRhXW93vS-XRZqJEU-BE
+owner=532405937667833887
+prefix=E
+game=Break| Ehelp
+stayinchannel=true
